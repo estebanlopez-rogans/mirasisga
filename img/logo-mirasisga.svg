@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Mirasisga">
+  <circle cx="60" cy="60" r="56" fill="#F3EBDD" stroke="#3F5A3C" stroke-width="4"/>
+  <circle cx="58" cy="47" r="14" fill="#E0A458"/>
+  <path d="M14 68 L38 44 L52 56 L68 38 L106 68 Z" fill="#3F5A3C"/>
+  <path d="M10 72 H110 A56 56 0 0 1 107 82 H13 A56 56 0 0 1 10 72 Z" fill="#2E5E6E"/>
+  <path d="M26 77.5 q6 -3 12 0 t12 0" fill="none" stroke="#F3EBDD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M70 77.5 q6 -3 12 0 t12 0" fill="none" stroke="#F3EBDD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M14 86 Q60 80 106 90 A56 56 0 0 1 14 86 Z" fill="#B5653F"/>
+  <g transform="translate(46 78)">
+    <path d="M1 29 A13 13 0 0 1 27 29 Z" fill="#F3EBDD" stroke="#2A2724" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M14 16 L8 29 M14 16 L20 29 M4.5 22 H23.5" fill="none" stroke="#2A2724" stroke-width="1.2"/>
+    <circle cx="14" cy="24.5" r="3.2" fill="#E0A458" stroke="#2A2724" stroke-width="1"/>
+    <rect x="-2" y="29" width="32" height="2.6" rx="1" fill="#2A2724"/>
+  </g>
+  <path d="M26 32 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#2A2724" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M44 22 q2.5 -2.5 5 0 q2.5 -2.5 5 0" fill="none" stroke="#2A2724" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M80 24 q3 -3 6 0 q3 -3 6 0" fill="none" stroke="#2A2724" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
